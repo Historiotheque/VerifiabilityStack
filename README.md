@@ -83,11 +83,7 @@ Each layer is covered in its own chapter. You build them in order.
 
 ## License
 
-TBD — recommendation: **CC BY 4.0** for the guide text, so others can
-reuse, translate, and remix it. (A reproducibility guide that can't be
-reproduced would be a poor joke. Your artworks and research outputs
-themselves can carry whatever license you choose; the guide is a
-separate object.)
+**Recommendation: CC BY 4.0** for the guide text, so others can reuse, translate, and remix it. (A reproducibility guide that can't be reproduced would be a poor joke.) Your artworks and research outputs themselves can carry whatever license you choose; the guide is a separate object.
 
 ## Contents
 
