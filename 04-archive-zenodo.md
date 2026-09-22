@@ -54,9 +54,9 @@ Zenodo. Minutes, not hours.
 
 1. On zenodo.org, choose **New upload** and add your files —
    `[YOUR FILES]`, already named under your filename convention.
-2. **Title:** `[SERIES NAME] ([YEAR OR SCOPE])`. Put the year or
+2. **Title:** `[PROJECT NAME] ([YEAR OR SCOPE])`. Put the year or
    scope in the title itself (see §5 on why): e.g.
-   `[SERIES NAME] (2024)` (placeholder).
+   `[PROJECT NAME] (2024)` (placeholder).
 3. **Resource type:** choose the closest match (e.g. *Image* →
    *Other* for digital paintings that fit no preset).
 4. **Description:** what the work is, how it was made, what the
@@ -120,7 +120,7 @@ will hit that ceiling, and a 100-file record is unnavigable anyway.
 The doctrine this guide recommends:
 
 - **One record per year** (or per coherent production period).
-  Title each `[SERIES NAME] ([YEAR])`.
+  Title each `[PROJECT NAME] ([YEAR])`.
 - **New years become new versions** of the record (Path A) or new
   records in the same community (Path B) — either way, the
   community page holds the series together.
